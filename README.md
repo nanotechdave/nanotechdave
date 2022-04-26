@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edivcodes
+- 👋 Hi, I’m @nanotechdave
 - 👀 I’m interested in nanotechnologies
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on statistical learning and neural networks
